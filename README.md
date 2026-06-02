@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou a Sofia! 👋
+# Oi, eu sou a Sofia! :)
 
 **Desenvolvedora Web** · Estudante de ADS na UCB · Estagiária de Suporte no HFA
 
