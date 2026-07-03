@@ -31,10 +31,3 @@ Estou no penúltimo semestre de Análise e Desenvolvimento de Sistemas na **Univ
 |---|---|---|
 | [**guidefit**](https://github.com/sofiabbz/guidefit) | Sistema de treino personalizado | React · Node.js · PostgreSQL |
 
----
-
-### 📬 Contato
-
-<a href="www.linkedin.com/in/sofia-bezerra-belém-86375822a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
