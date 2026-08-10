@@ -33,3 +33,4 @@ Estou nos últimos semestres de Análise e Desenvolvimento de Sistemas na **Univ
 |---|---|---|
 | [**guidefit-web**](https://github.com/sofiabbz/GuideFit-Web) | Sistema de treino personalizado (web) | React · Node.js · PostgreSQL · Prisma |
 | [**mural-de-fotos**](https://github.com/sofiabbz/Mural-de-Fotos) | Mural de fotos tiradas por mim | HTML · CSS · Javascript |
+| [**ray-tracer**](https://github.com/sofiabbz/RayTracer) | Ray tracer feito do zero | Python |
