@@ -37,12 +37,14 @@ Além dos códigos e do suporte, a fotografia é uma das minhas coisas favoritas
 
 ---
 
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiabbz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiabbz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sofiabbz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sofiabbz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
+
 
 ---
 
