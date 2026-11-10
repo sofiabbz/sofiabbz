@@ -4,6 +4,7 @@
 ### Desenvolvedora Web | Front-end & Full Stack
 
 </div>
+
 ---
 
 Sou desenvolvedora web com foco em Front-end e conhecimentos em Full Stack. Gosto de criar interfaces, explorar soluções e transformar ideias em projetos que realmente funcionam.
@@ -61,7 +62,7 @@ Aplicação web para abertura e acompanhamento de chamados de TI, com interfaces
 
 [![Repositório](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat&logo=github)](https://github.com/sofiabbz/Chamaki)
 
-#### 📷 [Mural de Fotos — Galeria Autoral](https://github.com/sofiabbz/MuraldeFotos)
+#### 📷 [Mural de Fotos — Galeria Autoral](https://sofiabbz.github.io/MuraldeFotos/)
 
 Galeria responsiva desenvolvida para apresentar fotografias tiradas por mim, explorando composição visual, organização de imagens e interatividade.
 
